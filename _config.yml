@@ -4,10 +4,10 @@
 
 # Site
 title: zicongxie.github.io
-subtitle:
-description:
+subtitle: focusing on web technology 
+description: '*author  xie Zicong'
 author: xie Zicong
-language: chinese
+language: zh-CN
 timezone: 
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: light
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
